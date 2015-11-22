@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="commons-io-2.2">
+    <CLASSES>
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/commons-io-2.2.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/xwork-core-2.3.24.1.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/struts2-json-plugin-2.3.24.1.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/struts2-core-2.3.24.1.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/ognl-3.0.6.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.26-bin.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/junit-4.2.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/freemarker-2.3.22.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/commons-logging-1.1.3.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/commons-lang3-3.2.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/commons-fileupload-1.3.1.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/commons-dbutils-1.6.jar!/" />
+      <root url="jar://D:/Structs2/ShareSys/WebRoot/WEB-INF/lib/c3p0-0.9.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
